@@ -63,8 +63,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:text="the family writer of this app is pourkazemi"
         android:layout_width="wrap_content"
+        android:text="this app never run during the development"
         android:layout_height="wrap_content"
         tools:text="this is were the question go for quz and answer"
         app:layout_constraintBottom_toTopOf="@+id/btnFalse"

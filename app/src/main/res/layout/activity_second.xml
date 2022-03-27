@@ -63,7 +63,7 @@
 
     <TextView
         android:id="@+id/textView"
-        android:text="the family writer of this app is pourkazemi"
+        android:text="this app made in one day"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:text="this is were the question go for quz and answer"
